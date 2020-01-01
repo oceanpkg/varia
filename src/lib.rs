@@ -47,3 +47,5 @@
 //!
 //! [@NikolaiVazquez]: https://twitter.com/NikolaiVazquez
 //! [Ocean]: https://www.oceanpkg.org
+
+#![deny(missing_docs)]
