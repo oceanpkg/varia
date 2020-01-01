@@ -1,0 +1,11 @@
+[package]
+name = "varia"
+description = "A collection of diffing algorithms."
+version = "0.0.0"
+license = "MIT OR Apache-2.0"
+authors = ["The Ocean Project Developers"]
+homepage = "https://github.com/oceanpkg/varia"
+repository = "https://github.com/oceanpkg/varia"
+documentation = "https://docs.rs/varia"
+include = ["Cargo.toml", "src", "README.md", "CHANGELOG.md", "LICENSE*"]
+edition = "2018"
