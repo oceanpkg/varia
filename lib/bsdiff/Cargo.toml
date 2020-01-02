@@ -1,0 +1,12 @@
+[package]
+name = "varia-bsdiff"
+description = "A Rust 'bsdiff' implementation for Varia."
+version = "0.0.0"
+license = "MIT OR Apache-2.0"
+authors = ["The Ocean Project Developers"]
+homepage = "https://github.com/oceanpkg/varia/tree/master/lib/bsdiff"
+repository = "https://github.com/oceanpkg/varia"
+documentation = "https://docs.rs/varia-bsdiff"
+keywords = ["varia", "bsdiff"]
+include = ["Cargo.toml", "src", "README.md", "CHANGELOG.md", "LICENSE*"]
+edition = "2018"

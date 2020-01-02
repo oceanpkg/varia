@@ -9,3 +9,9 @@ repository = "https://github.com/oceanpkg/varia"
 documentation = "https://docs.rs/varia"
 include = ["Cargo.toml", "src", "README.md", "CHANGELOG.md", "LICENSE*"]
 edition = "2018"
+
+[workspace]
+members = ["lib/*"]
+
+[dependencies]
+varia-bsdiff = { version = "0.0.0", path = "lib/bsdiff" }
