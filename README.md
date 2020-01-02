@@ -33,7 +33,7 @@ and this library contains various variance tools.
 
 ## License
 
-This project is released under either:
+Varia is released under either:
 
 - [MIT License](https://github.com/oceanpkg/varia/blob/master/LICENSE-MIT)
 - [Apache License (Version 2.0)](https://github.com/oceanpkg/varia/blob/master/LICENSE-APACHE)
